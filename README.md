@@ -5,7 +5,7 @@ Made With Visual Studio Code
 
 ----------- Main ----------- 
 The main file is where the flow of the code is defined.
-It also contains the logic for user registration and user login. // NOTE
+It also contains the logic for user registration and login.
 ( It is still not made such that the user registered in the past can access the system for ordering.)
 
 ----------- Menu.h && Menu.cpp -----------
